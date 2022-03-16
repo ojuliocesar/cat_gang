@@ -1,0 +1,6 @@
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 20px;
+}

@@ -1,0 +1,10 @@
+.main-action {
+    font-size: 25px;
+    color: #fff;
+    text-decoration: none;
+    transition: transform 120ms;
+}
+
+.main-action:hover {
+    transform: scale(1.04);
+}
